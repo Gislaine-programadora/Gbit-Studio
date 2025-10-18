@@ -19,7 +19,7 @@ const Index = () => {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-primary via-primary-glow to-accent bg-clip-text text-transparent">
-                DevFlow Studio
+                Gbit Studio
               </h1>
               <p className="text-xs text-muted-foreground">Ferramentas modernas para desenvolvedores</p>
             </div>

@@ -1,18 +1,39 @@
-# Welcome to your Lovable project
+##    🎨 Gbit Studio
 
-## Project info
 
-**URL**: https://lovable.dev/projects/a7ba38d4-92cf-4d15-b7aa-8a82d02fc56e
+Studio é um projeto criativo desenvolvido para facilitar a produção de conteúdo visual e artístico. Ele oferece ferramentas intuitivas e flexíveis para designers, artistas e desenvolvedores.
 
-## How can I edit this code?
+## 🚀 Funcionalidades
 
-There are several ways of editing your application.
+- Criação e edição de projetos visuais
+- Exportação em múltiplos formatos
+- Interface amigável e responsiva
+- Suporte a plugins e extensões
 
-**Use Lovable**
+## 📦 Instalação
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a7ba38d4-92cf-4d15-b7aa-8a82d02fc56e) and start prompting.
+Clone o repositório:
 
-Changes made via Lovable will be committed automatically to this repo.
+```bash
+git clone https://github.com/seu-usuario/studio.git
+
+
+Gbit Studio é uma ferramenta interativa para análise de complexidade ciclomática em código-fonte, oferecendo sugestões de melhoria para desenvolvedores que desejam refinar a qualidade de seus projetos.
+
+🔗 Acesse o projeto online 📦 Repositório no GitHub
+
+
+🚀 Funcionalidades
+📊 Análise de complexidade ciclomática
+
+💡 Sugestões automáticas de melhoria
+
+🧠 Interface intuitiva e responsiva
+
+⚡ Performance otimizada com Vite
+
+
+
 
 **Use your preferred IDE**
 
@@ -36,19 +57,7 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
@@ -60,14 +69,25 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## 📄 Licença
 
-Simply open [Lovable](https://lovable.dev/projects/a7ba38d4-92cf-4d15-b7aa-8a82d02fc56e) and click on Share -> Publish.
+Este projeto está licenciado sob a Licença MIT. Isso significa que você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, desde que mantenha o aviso de copyright.
 
-## Can I connect a custom domain to my Lovable project?
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🛠️ Como contribuir
+Contribuições são super bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Fork o projeto
+
+Crie uma branch com sua feature: git checkout -b minha-feature
+
+Commit suas alterações: git commit -m 'Adiciona minha feature'
+
+Push para a branch: git push origin minha-feature
+
+Abra um Pull Request.
+
+# contato 
+gislainelophes@gmail.com 
